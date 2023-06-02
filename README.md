@@ -1,5 +1,5 @@
 ### Hi there 👋
-![superstar]()
+![superstar](https://images.moneycontrol.com/static-mcnews/2017/11/Untitled-9-770x433.png?impolicy=website&width=770&height=431)
 <!--
 **Geo107/Geo107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
