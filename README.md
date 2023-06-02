@@ -1,5 +1,5 @@
 ### Hi there 👋
-![superstar](https://github.githubassets.com/images/modules/site/home/globe.jpg?height=100)
+![superstar]()
 <!--
 **Geo107/Geo107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
